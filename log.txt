@@ -1,0 +1,942 @@
+2023-07-24 22:08:25,755 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-24 22:09:36,811 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-24 22:09:58,421 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-24 22:11:35,756 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-24 22:12:16,930 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-24 22:12:51,761 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-24 22:12:51,855 - INFO - Total elementos: 3562
+2023-07-24 22:12:51,856 - INFO - Rede Primária: 445
+2023-07-24 22:12:51,857 - INFO - Rede Secundária: 3117
+2023-07-24 22:12:51,858 - INFO - Executando rede primaria.... 
+2023-07-24 22:15:14,077 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-24 22:15:14,137 - INFO - Total elementos: 3562
+2023-07-24 22:15:14,138 - INFO - Rede Primária: 445
+2023-07-24 22:15:14,138 - INFO - Rede Secundária: 3117
+2023-07-24 22:15:14,138 - INFO - Executando rede primaria.... 
+2023-07-24 22:16:13,191 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-24 22:16:13,349 - INFO - Total elementos: 3562
+2023-07-24 22:16:13,349 - INFO - Rede Primária: 445
+2023-07-24 22:16:13,350 - INFO - Rede Secundária: 3117
+2023-07-24 22:16:13,350 - INFO - Executando rede primaria.... 
+2023-07-24 22:16:53,330 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-24 22:16:53,435 - INFO - Total elementos: 3562
+2023-07-24 22:16:53,435 - INFO - Rede Primária: 445
+2023-07-24 22:16:53,435 - INFO - Rede Secundária: 3117
+2023-07-24 22:16:53,435 - INFO - Executando rede primaria.... 
+2023-07-24 22:17:11,836 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-24 22:17:11,912 - INFO - Total elementos: 3562
+2023-07-24 22:17:11,912 - INFO - Rede Primária: 445
+2023-07-24 22:17:11,914 - INFO - Rede Secundária: 3117
+2023-07-24 22:17:11,914 - INFO - Executando rede primaria.... 
+2023-07-24 22:21:45,636 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-24 22:21:45,710 - INFO - Total elementos: 3562
+2023-07-24 22:21:45,710 - INFO - Rede Primária: 445
+2023-07-24 22:21:45,711 - INFO - Rede Secundária: 3117
+2023-07-24 22:21:45,711 - INFO - Executando rede primaria.... 
+2023-07-24 22:22:49,132 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-24 22:22:49,229 - INFO - Total elementos: 3562
+2023-07-24 22:22:49,229 - INFO - Rede Primária: 445
+2023-07-24 22:22:49,230 - INFO - Rede Secundária: 3117
+2023-07-24 22:22:49,230 - INFO - Executando rede primaria.... 
+2023-07-24 22:23:00,541 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-24 22:23:00,597 - INFO - Total elementos: 3562
+2023-07-24 22:23:00,597 - INFO - Rede Primária: 445
+2023-07-24 22:23:00,597 - INFO - Rede Secundária: 3117
+2023-07-24 22:23:00,597 - INFO - Executando rede primaria.... 
+2023-07-24 22:23:19,214 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-24 22:23:19,270 - INFO - Total elementos: 3562
+2023-07-24 22:23:19,270 - INFO - Rede Primária: 445
+2023-07-24 22:23:19,270 - INFO - Rede Secundária: 3117
+2023-07-24 22:23:19,271 - INFO - Executando rede primaria.... 
+2023-07-24 22:23:34,699 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-24 22:23:34,770 - INFO - Total elementos: 3562
+2023-07-24 22:23:34,771 - INFO - Rede Primária: 445
+2023-07-24 22:23:34,771 - INFO - Rede Secundária: 3117
+2023-07-24 22:23:34,772 - INFO - Executando rede primaria.... 
+2023-07-24 22:24:29,702 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-24 22:24:29,776 - INFO - Total elementos: 3562
+2023-07-24 22:24:29,776 - INFO - Rede Primária: 445
+2023-07-24 22:24:29,776 - INFO - Rede Secundária: 3117
+2023-07-24 22:24:29,777 - INFO - Executando rede primaria.... 
+2023-07-24 22:24:50,819 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-24 22:24:50,905 - INFO - Total elementos: 3562
+2023-07-24 22:24:50,905 - INFO - Rede Primária: 445
+2023-07-24 22:24:50,905 - INFO - Rede Secundária: 3117
+2023-07-24 22:24:50,906 - INFO - Executando rede primaria.... 
+2023-07-24 22:25:20,524 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-24 22:25:20,622 - INFO - Total elementos: 3562
+2023-07-24 22:25:20,623 - INFO - Rede Primária: 445
+2023-07-24 22:25:20,623 - INFO - Rede Secundária: 3117
+2023-07-24 22:25:20,623 - INFO - Executando rede primaria.... 
+2023-07-24 22:25:38,319 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-24 22:25:38,399 - INFO - Total elementos: 3562
+2023-07-24 22:25:38,400 - INFO - Rede Primária: 445
+2023-07-24 22:25:38,400 - INFO - Rede Secundária: 3117
+2023-07-24 22:25:38,400 - INFO - Executando rede primaria.... 
+2023-07-24 22:28:45,456 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-24 22:28:45,530 - INFO - Total elementos: 3562
+2023-07-24 22:28:45,531 - INFO - Rede Primária: 445
+2023-07-24 22:28:45,531 - INFO - Rede Secundária: 3117
+2023-07-24 22:28:45,531 - INFO - Executando rede primaria.... 
+2023-07-24 22:29:03,954 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-24 22:29:04,044 - INFO - Total elementos: 3562
+2023-07-24 22:29:04,045 - INFO - Rede Primária: 445
+2023-07-24 22:29:04,045 - INFO - Rede Secundária: 3117
+2023-07-24 22:29:04,046 - INFO - Executando rede primaria.... 
+2023-07-24 22:31:18,165 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-24 22:31:18,223 - INFO - Total elementos: 3562
+2023-07-24 22:31:18,224 - INFO - Rede Primária: 445
+2023-07-24 22:31:18,224 - INFO - Rede Secundária: 3117
+2023-07-24 22:31:18,224 - INFO - Executando rede primaria.... 
+2023-07-24 22:31:31,835 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-24 22:31:31,893 - INFO - Total elementos: 3562
+2023-07-24 22:31:31,894 - INFO - Rede Primária: 445
+2023-07-24 22:31:31,894 - INFO - Rede Secundária: 3117
+2023-07-24 22:31:31,894 - INFO - Executando rede primaria.... 
+2023-07-24 22:31:57,347 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-24 22:31:57,404 - INFO - Total elementos: 3562
+2023-07-24 22:31:57,405 - INFO - Rede Primária: 445
+2023-07-24 22:31:57,405 - INFO - Rede Secundária: 3117
+2023-07-24 22:31:57,405 - INFO - Executando rede primaria.... 
+2023-07-24 22:32:29,000 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-24 22:32:29,070 - INFO - Total elementos: 3562
+2023-07-24 22:32:29,071 - INFO - Rede Primária: 445
+2023-07-24 22:32:29,071 - INFO - Rede Secundária: 3117
+2023-07-24 22:32:29,071 - INFO - Executando rede primaria.... 
+2023-07-24 22:39:03,346 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-24 22:39:03,514 - INFO - Total elementos: 3562
+2023-07-24 22:39:03,515 - INFO - Rede Primária: 445
+2023-07-24 22:39:03,515 - INFO - Rede Secundária: 3117
+2023-07-24 22:39:03,515 - INFO - Executando rede primaria.... 
+2023-07-24 22:48:37,544 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-24 22:48:37,650 - INFO - Total elementos: 3562
+2023-07-24 22:48:37,650 - INFO - Rede Primária: 445
+2023-07-24 22:48:37,650 - INFO - Rede Secundária: 3117
+2023-07-24 22:48:37,651 - INFO - Executando rede primaria.... 
+2023-07-24 22:51:20,701 - INFO - Conected .... 3562
+2023-07-24 22:51:20,702 - INFO - Disconecteds .... 0
+2023-07-24 22:51:20,736 - INFO - Calculando Tensão fase dos elementos...
+2023-07-24 23:48:27,966 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-24 23:48:28,005 - INFO - Total elementos: 0
+2023-07-24 23:48:28,005 - INFO - Rede Primária: 0
+2023-07-24 23:48:28,006 - INFO - Rede Secundária: 0
+2023-07-24 23:48:28,006 - INFO - Executando rede primaria.... 
+2023-07-25 00:28:09,370 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 00:28:09,560 - INFO - Total elementos: 3562
+2023-07-25 00:28:09,560 - INFO - Rede Primária: 445
+2023-07-25 00:28:09,561 - INFO - Rede Secundária: 3117
+2023-07-25 00:28:09,561 - INFO - Executando rede primaria.... 
+2023-07-25 00:28:10,271 - INFO - Conected .... 3562
+2023-07-25 00:28:10,272 - INFO - Disconecteds .... 0
+2023-07-25 00:28:10,299 - INFO - Calculando Tensão fase dos elementos...
+2023-07-25 00:29:27,740 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 00:29:27,870 - INFO - Total elementos: 3562
+2023-07-25 00:29:27,871 - INFO - Rede Primária: 445
+2023-07-25 00:29:27,871 - INFO - Rede Secundária: 3117
+2023-07-25 00:29:27,871 - INFO - Executando rede primaria.... 
+2023-07-25 00:29:28,562 - INFO - Conected .... 3562
+2023-07-25 00:29:28,563 - INFO - Disconecteds .... 0
+2023-07-25 00:29:28,588 - INFO - Calculando Tensão fase dos elementos...
+2023-07-25 00:30:32,347 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 00:30:32,466 - INFO - Total elementos: 3562
+2023-07-25 00:30:32,466 - INFO - Rede Primária: 445
+2023-07-25 00:30:32,467 - INFO - Rede Secundária: 3117
+2023-07-25 00:30:32,467 - INFO - Executando rede primaria.... 
+2023-07-25 00:30:33,168 - INFO - Conected .... 3562
+2023-07-25 00:30:33,169 - INFO - Disconecteds .... 0
+2023-07-25 00:30:33,195 - INFO - Calculando Tensão fase dos elementos...
+2023-07-25 00:30:33,209 - INFO - Salvando resultado.... 
+2023-07-25 00:33:15,677 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 00:34:03,306 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 00:34:03,418 - INFO - Total elementos: 3562
+2023-07-25 00:34:03,418 - INFO - Rede Primária: 445
+2023-07-25 00:34:03,418 - INFO - Rede Secundária: 3117
+2023-07-25 00:34:03,419 - INFO - Executando rede primaria.... 
+2023-07-25 00:34:21,401 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 00:34:21,506 - INFO - Total elementos: 3562
+2023-07-25 00:34:21,507 - INFO - Rede Primária: 445
+2023-07-25 00:34:21,507 - INFO - Rede Secundária: 3117
+2023-07-25 00:34:21,507 - INFO - Executando rede primaria.... 
+2023-07-25 00:34:21,509 - INFO - Conected .... 3
+2023-07-25 00:34:21,510 - INFO - Disconecteds .... 3559
+2023-07-25 00:34:21,537 - INFO - Calculando Tensão fase dos elementos...
+2023-07-25 00:34:21,540 - INFO - Salvando resultado.... 
+2023-07-25 00:34:21,747 - INFO - Fim Salvando resultado.... 
+2023-07-25 00:38:10,127 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 00:38:10,254 - INFO - Total elementos: 3562
+2023-07-25 00:38:10,255 - INFO - Rede Primária: 445
+2023-07-25 00:38:10,256 - INFO - Rede Secundária: 3117
+2023-07-25 00:38:10,256 - INFO - Executando rede primaria.... 
+2023-07-25 00:38:10,923 - INFO - Conected .... 3562
+2023-07-25 00:38:10,924 - INFO - Disconecteds .... 0
+2023-07-25 00:38:10,950 - INFO - Calculando Tensão fase dos elementos...
+2023-07-25 00:38:10,969 - INFO - Salvando resultado.... 
+2023-07-25 00:39:18,458 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 00:39:18,580 - INFO - Total elementos: 3562
+2023-07-25 00:39:18,580 - INFO - Rede Primária: 445
+2023-07-25 00:39:18,580 - INFO - Rede Secundária: 3117
+2023-07-25 00:39:18,580 - INFO - Executando rede primaria.... 
+2023-07-25 00:39:19,271 - INFO - Conected .... 3562
+2023-07-25 00:39:19,272 - INFO - Disconecteds .... 0
+2023-07-25 00:39:19,299 - INFO - Calculando Tensão fase dos elementos...
+2023-07-25 00:39:19,312 - INFO - Salvando resultado.... 
+2023-07-25 00:39:19,517 - INFO - Fim Salvando resultado.... 
+2023-07-25 00:39:45,657 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 00:39:45,759 - INFO - Total elementos: 3562
+2023-07-25 00:39:45,759 - INFO - Rede Primária: 445
+2023-07-25 00:39:45,759 - INFO - Rede Secundária: 3117
+2023-07-25 00:39:45,760 - INFO - Executando rede primaria.... 
+2023-07-25 00:39:46,447 - INFO - Conected .... 3562
+2023-07-25 00:39:46,448 - INFO - Disconecteds .... 0
+2023-07-25 00:39:46,483 - INFO - Calculando Tensão fase dos elementos...
+2023-07-25 00:39:46,502 - INFO - Salvando resultado.... 
+2023-07-25 00:39:46,639 - INFO - Fim Salvando resultado.... 
+2023-07-25 00:40:14,929 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 00:40:15,030 - INFO - Total elementos: 3562
+2023-07-25 00:40:15,030 - INFO - Rede Primária: 445
+2023-07-25 00:40:15,031 - INFO - Rede Secundária: 3117
+2023-07-25 00:40:15,031 - INFO - Executando rede primaria.... 
+2023-07-25 00:40:15,727 - INFO - Conected .... 3562
+2023-07-25 00:40:15,728 - INFO - Disconecteds .... 0
+2023-07-25 00:40:15,749 - INFO - Calculando Tensão fase dos elementos...
+2023-07-25 00:40:15,762 - INFO - Salvando resultado.... 
+2023-07-25 00:40:16,017 - INFO - Fim Salvando resultado.... 
+2023-07-25 00:51:56,083 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 01:40:01,443 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 01:40:01,583 - INFO - Total elementos: 3562
+2023-07-25 01:40:01,604 - INFO - Rede Primária: 445
+2023-07-25 01:40:01,604 - INFO - Rede Secundária: 3117
+2023-07-25 01:40:01,604 - INFO - Executando rede primaria.... 
+2023-07-25 01:40:01,606 - INFO - Conected .... 3562
+2023-07-25 01:40:01,607 - INFO - Disconecteds .... 0
+2023-07-25 01:40:01,644 - INFO - Calculando Tensão fase dos elementos...
+2023-07-25 01:40:55,053 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 01:40:55,177 - INFO - Total elementos: 3562
+2023-07-25 01:40:55,177 - INFO - Rede Primária: 445
+2023-07-25 01:40:55,177 - INFO - Rede Secundária: 3117
+2023-07-25 01:40:55,178 - INFO - Executando rede primaria.... 
+2023-07-25 01:40:55,179 - INFO - Conected .... 3562
+2023-07-25 01:40:55,181 - INFO - Disconecteds .... 0
+2023-07-25 01:40:55,201 - INFO - Calculando Tensão fase dos elementos...
+2023-07-25 01:40:55,221 - INFO - Salvando resultado.... 
+2023-07-25 01:40:55,435 - INFO - Fim Salvando resultado.... 
+2023-07-25 01:41:31,903 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 01:41:31,999 - INFO - Total elementos: 3562
+2023-07-25 01:41:32,000 - INFO - Rede Primária: 445
+2023-07-25 01:41:32,000 - INFO - Rede Secundária: 3117
+2023-07-25 01:41:32,000 - INFO - Executando rede primaria.... 
+2023-07-25 01:41:32,002 - INFO - Conected .... 3562
+2023-07-25 01:41:32,002 - INFO - Disconecteds .... 0
+2023-07-25 01:41:32,026 - INFO - Calculando Tensão fase dos elementos...
+2023-07-25 01:41:32,044 - INFO - Salvando resultado.... 
+2023-07-25 01:41:32,181 - INFO - Fim Salvando resultado.... 
+2023-07-25 01:43:37,349 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 01:43:37,455 - INFO - Total elementos: 3562
+2023-07-25 01:43:37,455 - INFO - Rede Primária: 445
+2023-07-25 01:43:37,455 - INFO - Rede Secundária: 3117
+2023-07-25 01:43:37,456 - INFO - Executando rede primaria.... 
+2023-07-25 01:43:37,457 - INFO - Conected .... 3562
+2023-07-25 01:43:37,458 - INFO - Disconecteds .... 0
+2023-07-25 01:43:37,487 - INFO - Calculando Tensão fase dos elementos...
+2023-07-25 01:43:37,500 - INFO - Salvando resultado.... 
+2023-07-25 01:43:37,621 - INFO - Fim Salvando resultado.... 
+2023-07-25 01:44:17,378 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 01:44:17,486 - INFO - Total elementos: 3562
+2023-07-25 01:44:17,487 - INFO - Rede Primária: 445
+2023-07-25 01:44:17,487 - INFO - Rede Secundária: 3117
+2023-07-25 01:44:17,488 - INFO - Executando rede primaria.... 
+2023-07-25 01:44:17,489 - INFO - Conected .... 3562
+2023-07-25 01:44:17,490 - INFO - Disconecteds .... 0
+2023-07-25 01:44:28,727 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 01:44:28,838 - INFO - Total elementos: 3562
+2023-07-25 01:44:28,839 - INFO - Rede Primária: 445
+2023-07-25 01:44:28,839 - INFO - Rede Secundária: 3117
+2023-07-25 01:44:28,839 - INFO - Executando rede primaria.... 
+2023-07-25 01:44:28,842 - INFO - Conected .... 3562
+2023-07-25 01:44:28,843 - INFO - Disconecteds .... 0
+2023-07-25 01:44:28,857 - INFO - Calculando Tensão fase dos elementos...
+2023-07-25 01:44:28,871 - INFO - Salvando resultado.... 
+2023-07-25 01:44:28,987 - INFO - Fim Salvando resultado.... 
+2023-07-25 01:44:42,494 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 01:44:42,605 - INFO - Total elementos: 3562
+2023-07-25 01:44:42,606 - INFO - Rede Primária: 445
+2023-07-25 01:44:42,606 - INFO - Rede Secundária: 3117
+2023-07-25 01:44:42,606 - INFO - Executando rede primaria.... 
+2023-07-25 01:44:42,607 - INFO - Conected .... 3562
+2023-07-25 01:44:42,609 - INFO - Disconecteds .... 0
+2023-07-25 01:44:42,780 - INFO - Calculando Tensão fase dos elementos...
+2023-07-25 01:44:42,795 - INFO - Salvando resultado.... 
+2023-07-25 01:44:42,923 - INFO - Fim Salvando resultado.... 
+2023-07-25 01:45:02,120 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 01:45:02,278 - INFO - Total elementos: 3562
+2023-07-25 01:45:02,279 - INFO - Rede Primária: 445
+2023-07-25 01:45:02,279 - INFO - Rede Secundária: 3117
+2023-07-25 01:45:02,280 - INFO - Executando rede primaria.... 
+2023-07-25 01:45:02,281 - INFO - Conected .... 3562
+2023-07-25 01:45:02,283 - INFO - Disconecteds .... 0
+2023-07-25 01:45:02,296 - INFO - Calculando Tensão fase dos elementos...
+2023-07-25 01:45:02,313 - INFO - Salvando resultado.... 
+2023-07-25 01:45:02,458 - INFO - Fim Salvando resultado.... 
+2023-07-25 01:47:36,605 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 01:47:36,715 - INFO - Total elementos: 3562
+2023-07-25 01:47:36,716 - INFO - Rede Primária: 445
+2023-07-25 01:47:36,716 - INFO - Rede Secundária: 3117
+2023-07-25 01:47:36,716 - INFO - Executando rede primaria.... 
+2023-07-25 01:47:37,439 - INFO - Conected .... 3562
+2023-07-25 01:47:37,440 - INFO - Disconecteds .... 0
+2023-07-25 01:47:37,511 - INFO - Calculando Tensão fase dos elementos...
+2023-07-25 01:47:37,524 - INFO - Salvando resultado.... 
+2023-07-25 01:47:37,685 - INFO - Fim Salvando resultado.... 
+2023-07-25 01:47:49,967 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 01:47:50,339 - INFO - Total elementos: 3562
+2023-07-25 01:47:50,340 - INFO - Rede Primária: 445
+2023-07-25 01:47:50,340 - INFO - Rede Secundária: 3117
+2023-07-25 01:47:50,340 - INFO - Executando rede primaria.... 
+2023-07-25 01:47:51,035 - INFO - Conected .... 3562
+2023-07-25 01:47:51,036 - INFO - Disconecteds .... 0
+2023-07-25 01:47:51,058 - INFO - Calculando Tensão fase dos elementos...
+2023-07-25 01:47:51,072 - INFO - Salvando resultado.... 
+2023-07-25 01:47:51,199 - INFO - Fim Salvando resultado.... 
+2023-07-25 01:51:40,379 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 01:51:40,486 - INFO - Total elementos: 3562
+2023-07-25 01:51:40,486 - INFO - Rede Primária: 445
+2023-07-25 01:51:40,487 - INFO - Rede Secundária: 3117
+2023-07-25 01:51:40,487 - INFO - Executando rede primaria.... 
+2023-07-25 01:51:41,191 - INFO - Conected .... 3562
+2023-07-25 01:51:41,192 - INFO - Disconecteds .... 0
+2023-07-25 01:51:41,215 - INFO - Calculando Tensão fase dos elementos...
+2023-07-25 01:51:41,230 - INFO - Salvando resultado.... 
+2023-07-25 01:51:41,373 - INFO - Fim Salvando resultado.... 
+2023-07-25 01:54:42,350 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 01:54:42,446 - INFO - Total elementos: 3562
+2023-07-25 01:54:42,447 - INFO - Rede Primária: 445
+2023-07-25 01:54:42,447 - INFO - Rede Secundária: 3117
+2023-07-25 01:54:42,447 - INFO - Executando rede primaria.... 
+2023-07-25 01:54:43,157 - INFO - Conected .... 3562
+2023-07-25 01:54:43,158 - INFO - Disconecteds .... 0
+2023-07-25 01:54:43,184 - INFO - Calculando Tensão fase dos elementos...
+2023-07-25 01:54:43,195 - INFO - Salvando resultado.... 
+2023-07-25 01:54:43,320 - INFO - Fim Salvando resultado.... 
+2023-07-25 02:00:42,979 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 02:00:43,096 - INFO - Total elementos: 3562
+2023-07-25 02:00:43,097 - INFO - Rede Primária: 445
+2023-07-25 02:00:43,097 - INFO - Rede Secundária: 3117
+2023-07-25 02:00:43,097 - INFO - Executando rede primaria.... 
+2023-07-25 02:00:43,807 - INFO - Conected .... 3562
+2023-07-25 02:00:43,807 - INFO - Disconecteds .... 0
+2023-07-25 02:00:43,827 - INFO - Calculando Tensão fase dos elementos...
+2023-07-25 02:00:43,838 - INFO - Salvando resultado.... 
+2023-07-25 02:00:43,964 - INFO - Fim Salvando resultado.... 
+2023-07-25 02:04:43,374 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 02:04:43,487 - INFO - Total elementos: 3562
+2023-07-25 02:04:43,488 - INFO - Rede Primária: 445
+2023-07-25 02:04:43,488 - INFO - Rede Secundária: 3117
+2023-07-25 02:04:43,488 - INFO - Executando rede primaria.... 
+2023-07-25 02:04:55,652 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 02:04:55,769 - INFO - Total elementos: 3562
+2023-07-25 02:04:55,769 - INFO - Rede Primária: 445
+2023-07-25 02:04:55,770 - INFO - Rede Secundária: 3117
+2023-07-25 02:04:55,770 - INFO - Executando rede primaria.... 
+2023-07-25 02:07:05,312 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 02:07:05,444 - INFO - Total elementos: 3562
+2023-07-25 02:07:05,444 - INFO - Rede Primária: 445
+2023-07-25 02:07:05,444 - INFO - Rede Secundária: 3117
+2023-07-25 02:07:05,444 - INFO - Executando rede primaria.... 
+2023-07-25 02:07:06,121 - INFO - Conected .... 3562
+2023-07-25 02:07:06,121 - INFO - Disconecteds .... 0
+2023-07-25 02:07:06,149 - INFO - Calculando Tensão fase dos elementos...
+2023-07-25 02:07:06,159 - INFO - Salvando resultado.... 
+2023-07-25 02:07:06,297 - INFO - Fim Salvando resultado.... 
+2023-07-25 02:07:34,982 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 02:07:35,094 - INFO - Total elementos: 3562
+2023-07-25 02:07:35,095 - INFO - Rede Primária: 445
+2023-07-25 02:07:35,095 - INFO - Rede Secundária: 3117
+2023-07-25 02:07:35,095 - INFO - Executando rede primaria.... 
+2023-07-25 02:07:35,784 - INFO - Conected .... 3562
+2023-07-25 02:07:35,785 - INFO - Disconecteds .... 0
+2023-07-25 02:07:35,810 - INFO - Calculando Tensão fase dos elementos...
+2023-07-25 02:07:35,820 - INFO - Salvando resultado.... 
+2023-07-25 02:07:35,970 - INFO - Fim Salvando resultado.... 
+2023-07-25 02:15:55,520 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 02:15:55,636 - INFO - Total elementos: 3562
+2023-07-25 02:15:55,636 - INFO - Rede Primária: 445
+2023-07-25 02:15:55,637 - INFO - Rede Secundária: 3117
+2023-07-25 02:15:55,637 - INFO - Executando rede primaria.... 
+2023-07-25 02:15:55,638 - INFO - Conected .... 3562
+2023-07-25 02:15:55,638 - INFO - Disconecteds .... 0
+2023-07-25 02:15:55,707 - INFO - Calculando Tensão fase dos elementos...
+2023-07-25 02:15:55,720 - INFO - Salvando resultado.... 
+2023-07-25 02:15:55,835 - INFO - Fim Salvando resultado.... 
+2023-07-25 02:16:17,061 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 02:16:17,158 - INFO - Total elementos: 3562
+2023-07-25 02:16:17,158 - INFO - Rede Primária: 445
+2023-07-25 02:16:17,159 - INFO - Rede Secundária: 3117
+2023-07-25 02:16:17,159 - INFO - Executando rede primaria.... 
+2023-07-25 02:16:17,160 - INFO - Conected .... 3562
+2023-07-25 02:16:17,161 - INFO - Disconecteds .... 0
+2023-07-25 02:16:17,188 - INFO - Calculando Tensão fase dos elementos...
+2023-07-25 02:16:17,205 - INFO - Salvando resultado.... 
+2023-07-25 02:16:17,316 - INFO - Fim Salvando resultado.... 
+2023-07-25 02:17:32,629 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 02:17:32,739 - INFO - Total elementos: 3562
+2023-07-25 02:17:32,740 - INFO - Rede Primária: 445
+2023-07-25 02:17:32,741 - INFO - Rede Secundária: 3117
+2023-07-25 02:17:32,741 - INFO - Executando rede primaria.... 
+2023-07-25 02:17:32,742 - INFO - Conected .... 1
+2023-07-25 02:17:32,744 - INFO - Disconecteds .... 3561
+2023-07-25 02:17:32,814 - INFO - Calculando Tensão fase dos elementos...
+2023-07-25 02:17:32,828 - INFO - Salvando resultado.... 
+2023-07-25 02:17:32,969 - INFO - Fim Salvando resultado.... 
+2023-07-25 02:18:53,086 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 02:18:53,262 - INFO - Total elementos: 3562
+2023-07-25 02:18:53,262 - INFO - Rede Primária: 445
+2023-07-25 02:18:53,262 - INFO - Rede Secundária: 3117
+2023-07-25 02:18:53,263 - INFO - Executando rede primaria.... 
+2023-07-25 02:18:53,264 - INFO - Conected .... 1
+2023-07-25 02:18:53,265 - INFO - Disconecteds .... 3561
+2023-07-25 02:18:53,292 - INFO - Calculando Tensão fase dos elementos...
+2023-07-25 02:18:53,307 - INFO - Salvando resultado.... 
+2023-07-25 02:18:53,449 - INFO - Fim Salvando resultado.... 
+2023-07-25 02:20:01,710 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 02:20:01,810 - INFO - Total elementos: 3562
+2023-07-25 02:20:01,811 - INFO - Rede Primária: 445
+2023-07-25 02:20:01,811 - INFO - Rede Secundária: 3117
+2023-07-25 02:20:01,812 - INFO - Executando rede primaria.... 
+2023-07-25 02:20:01,812 - INFO - Conected .... 1
+2023-07-25 02:20:01,814 - INFO - Disconecteds .... 3561
+2023-07-25 02:20:01,880 - INFO - Calculando Tensão fase dos elementos...
+2023-07-25 02:20:01,894 - INFO - Salvando resultado.... 
+2023-07-25 02:20:01,998 - INFO - Fim Salvando resultado.... 
+2023-07-25 02:22:00,330 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 02:22:00,444 - INFO - Total elementos: 3562
+2023-07-25 02:22:00,445 - INFO - Rede Primária: 445
+2023-07-25 02:22:00,445 - INFO - Rede Secundária: 3117
+2023-07-25 02:22:00,445 - INFO - Executando rede primaria.... 
+2023-07-25 02:22:00,447 - INFO - Conected .... 1
+2023-07-25 02:22:00,448 - INFO - Disconecteds .... 3561
+2023-07-25 02:22:00,506 - INFO - Calculando Tensão fase dos elementos...
+2023-07-25 02:22:00,521 - INFO - Salvando resultado.... 
+2023-07-25 02:22:00,622 - INFO - Fim Salvando resultado.... 
+2023-07-25 02:22:25,531 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 02:22:25,622 - INFO - Total elementos: 3562
+2023-07-25 02:22:25,623 - INFO - Rede Primária: 445
+2023-07-25 02:22:25,623 - INFO - Rede Secundária: 3117
+2023-07-25 02:22:25,623 - INFO - Executando rede primaria.... 
+2023-07-25 02:22:25,626 - INFO - Conected .... 1
+2023-07-25 02:22:25,627 - INFO - Disconecteds .... 3561
+2023-07-25 02:22:25,691 - INFO - Calculando Tensão fase dos elementos...
+2023-07-25 02:22:25,705 - INFO - Salvando resultado.... 
+2023-07-25 02:22:25,791 - INFO - Fim Salvando resultado.... 
+2023-07-25 02:23:09,960 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 02:23:10,074 - INFO - Total elementos: 3562
+2023-07-25 02:23:10,074 - INFO - Rede Primária: 445
+2023-07-25 02:23:10,074 - INFO - Rede Secundária: 3117
+2023-07-25 02:23:10,075 - INFO - Executando rede primaria.... 
+2023-07-25 02:23:10,949 - INFO - Conected .... 1
+2023-07-25 02:23:11,748 - INFO - Disconecteds .... 3561
+2023-07-25 02:23:11,826 - INFO - Calculando Tensão fase dos elementos...
+2023-07-25 02:23:11,840 - INFO - Salvando resultado.... 
+2023-07-25 02:23:11,944 - INFO - Fim Salvando resultado.... 
+2023-07-25 02:23:48,850 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 02:23:48,964 - INFO - Total elementos: 3562
+2023-07-25 02:23:48,964 - INFO - Rede Primária: 445
+2023-07-25 02:23:48,964 - INFO - Rede Secundária: 3117
+2023-07-25 02:23:48,965 - INFO - Executando rede primaria.... 
+2023-07-25 02:23:48,966 - INFO - Conected .... 1
+2023-07-25 02:23:48,967 - INFO - Disconecteds .... 3561
+2023-07-25 02:23:49,036 - INFO - Calculando Tensão fase dos elementos...
+2023-07-25 02:23:49,049 - INFO - Salvando resultado.... 
+2023-07-25 02:23:49,133 - INFO - Fim Salvando resultado.... 
+2023-07-25 02:26:41,552 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 02:26:41,659 - INFO - Total elementos: 3562
+2023-07-25 02:26:41,659 - INFO - Rede Primária: 445
+2023-07-25 02:26:41,659 - INFO - Rede Secundária: 3117
+2023-07-25 02:26:41,660 - INFO - Executando rede primaria.... 
+2023-07-25 02:26:42,950 - INFO - Conected .... 1634
+2023-07-25 02:26:42,952 - INFO - Disconecteds .... 1928
+2023-07-25 02:26:43,006 - INFO - Calculando Tensão fase dos elementos...
+2023-07-25 02:26:43,034 - INFO - Salvando resultado.... 
+2023-07-25 02:26:43,144 - INFO - Fim Salvando resultado.... 
+2023-07-25 02:28:18,420 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 02:28:18,530 - INFO - Total elementos: 3562
+2023-07-25 02:28:18,530 - INFO - Rede Primária: 445
+2023-07-25 02:28:18,531 - INFO - Rede Secundária: 3117
+2023-07-25 02:28:18,531 - INFO - Executando rede primaria.... 
+2023-07-25 02:28:18,883 - INFO - Conected .... 1634
+2023-07-25 02:28:18,884 - INFO - Disconecteds .... 1928
+2023-07-25 02:28:18,973 - INFO - Calculando Tensão fase dos elementos...
+2023-07-25 02:28:18,985 - INFO - Salvando resultado.... 
+2023-07-25 02:28:19,092 - INFO - Fim Salvando resultado.... 
+2023-07-25 02:35:33,945 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 02:35:34,061 - INFO - Total elementos: 3562
+2023-07-25 02:35:34,061 - INFO - Rede Primária: 445
+2023-07-25 02:35:34,062 - INFO - Rede Secundária: 3117
+2023-07-25 02:35:34,062 - INFO - Executando rede primaria.... 
+2023-07-25 02:35:34,487 - INFO - Conected .... 1634
+2023-07-25 02:35:34,488 - INFO - Disconecteds .... 1928
+2023-07-25 02:35:34,557 - INFO - Calculando Tensão fase dos elementos...
+2023-07-25 02:35:34,566 - INFO - Salvando resultado.... 
+2023-07-25 02:35:34,666 - INFO - Fim Salvando resultado.... 
+2023-07-25 02:40:46,163 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 02:40:46,225 - INFO - Total elementos: 3562
+2023-07-25 02:40:46,225 - INFO - Rede Primária: 445
+2023-07-25 02:40:46,226 - INFO - Rede Secundária: 3117
+2023-07-25 02:40:46,226 - INFO - Executando rede primaria.... 
+2023-07-25 02:40:46,687 - INFO - Conected .... 1634
+2023-07-25 02:40:46,688 - INFO - Disconecteds .... 1928
+2023-07-25 02:40:46,742 - INFO - Calculando Tensão fase dos elementos...
+2023-07-25 02:40:46,748 - INFO - Salvando resultado.... 
+2023-07-25 02:40:46,807 - INFO - Fim Salvando resultado.... 
+2023-07-25 02:42:32,085 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 02:42:32,165 - INFO - Total elementos: 3562
+2023-07-25 02:42:32,165 - INFO - Rede Primária: 445
+2023-07-25 02:42:32,166 - INFO - Rede Secundária: 3117
+2023-07-25 02:42:32,166 - INFO - Executando rede primaria.... 
+2023-07-25 02:42:32,599 - INFO - Conected .... 1634
+2023-07-25 02:42:32,600 - INFO - Disconecteds .... 1928
+2023-07-25 02:42:32,652 - INFO - Calculando Tensão fase dos elementos...
+2023-07-25 02:42:32,658 - INFO - Salvando resultado.... 
+2023-07-25 02:42:32,707 - INFO - Fim Salvando resultado.... 
+2023-07-25 02:46:48,062 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 02:46:48,149 - INFO - Total elementos: 3562
+2023-07-25 02:46:48,150 - INFO - Rede Primária: 445
+2023-07-25 02:46:48,150 - INFO - Rede Secundária: 3117
+2023-07-25 02:46:48,150 - INFO - Executando rede primaria.... 
+2023-07-25 02:46:48,574 - INFO - Conected .... 1634
+2023-07-25 02:46:48,575 - INFO - Disconecteds .... 1928
+2023-07-25 02:46:48,619 - INFO - Calculando Tensão fase dos elementos...
+2023-07-25 02:46:48,626 - INFO - Salvando resultado.... 
+2023-07-25 02:46:48,694 - INFO - Fim Salvando resultado.... 
+2023-07-25 02:54:53,418 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 02:54:53,506 - INFO - Total elementos: 3562
+2023-07-25 02:54:53,506 - INFO - Rede Primária: 445
+2023-07-25 02:54:53,507 - INFO - Rede Secundária: 3117
+2023-07-25 02:54:53,507 - INFO - Executando rede primaria.... 
+2023-07-25 02:54:53,956 - INFO - Conected .... 1634
+2023-07-25 02:54:53,957 - INFO - Disconecteds .... 1928
+2023-07-25 02:54:53,983 - INFO - Calculando Tensão fase dos elementos...
+2023-07-25 02:54:53,989 - INFO - Salvando resultado.... 
+2023-07-25 02:54:54,074 - INFO - Fim Salvando resultado.... 
+2023-07-25 02:55:30,291 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 02:55:30,382 - INFO - Total elementos: 3562
+2023-07-25 02:55:30,383 - INFO - Rede Primária: 445
+2023-07-25 02:55:30,383 - INFO - Rede Secundária: 3117
+2023-07-25 02:55:30,383 - INFO - Executando rede primaria.... 
+2023-07-25 02:55:31,057 - INFO - Conected .... 3184
+2023-07-25 02:55:31,061 - INFO - Disconecteds .... 378
+2023-07-25 02:55:31,112 - INFO - Calculando Tensão fase dos elementos...
+2023-07-25 02:55:31,123 - INFO - Salvando resultado.... 
+2023-07-25 02:55:31,255 - INFO - Fim Salvando resultado.... 
+2023-07-25 02:57:16,051 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 02:57:16,126 - INFO - Total elementos: 3562
+2023-07-25 02:57:16,126 - INFO - Rede Primária: 445
+2023-07-25 02:57:16,128 - INFO - Rede Secundária: 3117
+2023-07-25 02:57:16,128 - INFO - Executando rede primaria.... 
+2023-07-25 02:57:16,817 - INFO - Conected .... 3184
+2023-07-25 02:57:16,818 - INFO - Disconecteds .... 378
+2023-07-25 02:57:16,842 - INFO - Calculando Tensão fase dos elementos...
+2023-07-25 02:57:16,852 - INFO - Salvando resultado.... 
+2023-07-25 02:57:16,987 - INFO - Fim Salvando resultado.... 
+2023-07-25 02:57:43,192 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 02:57:43,266 - INFO - Total elementos: 3562
+2023-07-25 02:57:43,267 - INFO - Rede Primária: 445
+2023-07-25 02:57:43,267 - INFO - Rede Secundária: 3117
+2023-07-25 02:57:43,267 - INFO - Executando rede primaria.... 
+2023-07-25 02:57:43,936 - INFO - Conected .... 3184
+2023-07-25 02:57:43,937 - INFO - Disconecteds .... 378
+2023-07-25 02:57:44,014 - INFO - Calculando Tensão fase dos elementos...
+2023-07-25 02:57:44,024 - INFO - Salvando resultado.... 
+2023-07-25 02:57:44,117 - INFO - Fim Salvando resultado.... 
+2023-07-25 03:09:33,279 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 03:09:33,460 - INFO - Total elementos: 3562
+2023-07-25 03:09:33,460 - INFO - Rede Primária: 445
+2023-07-25 03:09:33,460 - INFO - Rede Secundária: 3117
+2023-07-25 03:09:33,460 - INFO - Executando rede primaria.... 
+2023-07-25 03:09:34,118 - INFO - Conected .... 3184
+2023-07-25 03:09:34,119 - INFO - Disconecteds .... 378
+2023-07-25 03:09:34,190 - INFO - Calculando Tensão fase dos elementos...
+2023-07-25 03:09:34,200 - INFO - Salvando resultado.... 
+2023-07-25 03:09:34,390 - INFO - Fim Salvando resultado.... 
+2023-07-25 12:12:23,277 - INFO - Obtendo elementos Feeder: JCK01X5
+2023-07-25 12:12:23,527 - INFO - Total elementos: 3562
+2023-07-25 12:12:23,528 - INFO - Rede Primária: 445
+2023-07-25 12:12:23,529 - INFO - Rede Secundária: 3117
+2023-07-25 12:12:23,529 - INFO - Executando rede primaria.... 
+2023-07-25 12:12:24,246 - INFO - Conected .... 3562
+2023-07-25 12:12:24,246 - INFO - Disconecteds .... 0
+2023-07-25 12:12:24,421 - INFO - Calculando Tensão fase dos elementos...
+2023-07-25 12:12:24,433 - INFO - Salvando resultado.... 
+2023-07-25 12:12:24,741 - INFO - Fim Salvando resultado.... 
+2023-07-25 13:03:00,715 - INFO - Obtendo elementos Feeder: BRBBB-FC
+2023-07-25 13:03:01,131 - INFO - Total elementos: 27516
+2023-07-25 13:03:01,131 - INFO - Rede Primária: 14570
+2023-07-25 13:03:01,132 - INFO - Rede Secundária: 12946
+2023-07-25 13:03:01,133 - INFO - Executando rede primaria.... 
+2023-07-25 13:03:08,294 - INFO - Conected .... 27512
+2023-07-25 13:03:08,299 - INFO - Disconecteds .... 4
+2023-07-25 13:03:08,347 - INFO - Calculando Tensão fase dos elementos...
+2023-07-25 13:03:10,494 - INFO - Salvando resultado.... 
+2023-07-25 13:03:11,375 - INFO - Fim Salvando resultado.... 
+2023-07-25 14:58:19,319 - INFO - Started sequence through mongo DB 
+2023-07-25 14:58:19,319 - INFO - Started sequence through mongo DB 
+2023-07-25 14:58:39,425 - INFO - Started sequence through mongo DB 
+2023-07-25 14:58:39,425 - INFO - Started sequence through mongo DB 
+2023-07-25 15:00:34,417 - INFO - Started sequence through mongo DB 
+2023-07-25 15:00:34,417 - INFO - Started sequence through mongo DB 
+2023-07-25 15:02:31,680 - INFO - Started sequence through mongo DB 
+2023-07-25 15:02:31,680 - INFO - Started sequence through mongo DB 
+2023-07-25 15:05:05,964 - INFO - Started sequence through mongo DB 
+2023-07-25 15:05:05,964 - INFO - Started sequence through mongo DB 
+2023-07-25 15:05:06,334 - INFO - Total elements: 27516
+2023-07-25 15:05:06,334 - INFO - Total elements: 27516
+2023-07-25 15:05:06,334 - INFO - Primary network: 14570
+2023-07-25 15:05:06,334 - INFO - Primary network: 14570
+2023-07-25 15:05:06,334 - INFO - Secundary network: 12946
+2023-07-25 15:05:06,334 - INFO - Secundary network: 12946
+2023-07-25 15:05:06,336 - INFO - Executing primary network
+2023-07-25 15:05:06,336 - INFO - Executing primary network
+2023-07-25 15:05:15,862 - INFO - Conected: 27512
+2023-07-25 15:05:15,862 - INFO - Conected: 27512
+2023-07-25 15:05:15,866 - INFO - Disconecteds: 4
+2023-07-25 15:05:15,866 - INFO - Disconecteds: 4
+2023-07-25 15:05:15,866 - INFO - Saving results.... 
+2023-07-25 15:05:15,866 - INFO - Saving results.... 
+2023-07-25 15:05:16,802 - INFO - End saving 
+2023-07-25 15:05:16,802 - INFO - End saving 
+2023-07-25 15:06:35,525 - INFO - Started sequence through mongo DB 
+2023-07-25 15:06:35,861 - INFO - Total elements: 27516
+2023-07-25 15:06:35,861 - INFO - Primary network: 14570
+2023-07-25 15:06:35,861 - INFO - Secundary network: 12946
+2023-07-25 15:06:35,862 - INFO - Executing primary network
+2023-07-25 15:06:45,277 - INFO - Conected: 27512
+2023-07-25 15:06:45,284 - INFO - Disconecteds: 4
+2023-07-25 15:06:45,284 - INFO - Saving results.... 
+2023-07-25 15:06:45,965 - INFO - End saving 
+2023-07-25 15:32:02,208 - INFO - Started sequence through mongo DB 
+2023-07-25 15:32:02,866 - INFO - Total elements: 27516
+2023-07-25 15:32:02,866 - INFO - Primary network: 14570
+2023-07-25 15:32:02,962 - INFO - Secundary network: 12946
+2023-07-25 15:32:02,963 - INFO - Executing primary network
+2023-07-25 15:32:12,628 - INFO - Conected: 27512
+2023-07-25 15:32:12,634 - INFO - Disconecteds: 4
+2023-07-25 15:32:12,634 - INFO - Saving results.... 
+2023-07-25 15:32:13,568 - INFO - End saving 
+2023-07-25 16:00:56,697 - INFO - Started sequence through mongo DB 
+2023-07-25 16:00:57,471 - INFO - Total elements: 27516
+2023-07-25 16:00:57,471 - INFO - Primary network: 14570
+2023-07-25 16:00:57,472 - INFO - Secundary network: 12946
+2023-07-25 16:00:57,472 - INFO - Executing primary network
+2023-07-25 16:01:07,318 - INFO - Conected: 27512
+2023-07-25 16:01:07,323 - INFO - Disconecteds: 4
+2023-07-25 16:01:07,323 - INFO - Saving results.... 
+2023-07-25 16:01:08,733 - INFO - End saving 
+2023-07-25 18:02:46,523 - INFO - Started sequence through mongo DB 
+2023-07-25 18:02:47,313 - INFO - Total elements: 27516
+2023-07-25 18:02:47,318 - INFO - Primary network: 14570
+2023-07-25 18:02:47,318 - INFO - Secundary network: 12946
+2023-07-25 18:02:47,318 - INFO - Executing primary network
+2023-07-25 18:03:01,257 - INFO - Started sequence through mongo DB 
+2023-07-25 18:03:01,665 - INFO - Total elements: 27516
+2023-07-25 18:03:01,666 - INFO - Primary network: 14570
+2023-07-25 18:03:01,666 - INFO - Secundary network: 12946
+2023-07-25 18:03:01,666 - INFO - Executing primary network
+2023-07-25 18:03:44,325 - INFO - Started sequence through mongo DB 
+2023-07-25 18:03:44,683 - INFO - Total elements: 27516
+2023-07-25 18:03:44,683 - INFO - Primary network: 14570
+2023-07-25 18:03:44,684 - INFO - Secundary network: 12946
+2023-07-25 18:03:44,684 - INFO - Executing primary network
+2023-07-25 18:04:16,727 - INFO - Started sequence through mongo DB 
+2023-07-25 18:04:17,121 - INFO - Total elements: 27516
+2023-07-25 18:04:17,122 - INFO - Primary network: 14570
+2023-07-25 18:04:17,122 - INFO - Secundary network: 12946
+2023-07-25 18:04:17,125 - INFO - Executing primary network
+2023-07-25 18:04:56,319 - INFO - Started sequence through mongo DB 
+2023-07-25 18:04:56,678 - INFO - Total elements: 27516
+2023-07-25 18:04:56,678 - INFO - Primary network: 14570
+2023-07-25 18:04:56,678 - INFO - Secundary network: 12946
+2023-07-25 18:04:56,679 - INFO - Executing primary network
+2023-07-25 18:05:27,841 - INFO - Started sequence through mongo DB 
+2023-07-25 18:05:28,182 - INFO - Total elements: 27516
+2023-07-25 18:05:28,182 - INFO - Primary network: 14570
+2023-07-25 18:05:28,183 - INFO - Secundary network: 12946
+2023-07-25 18:05:28,183 - INFO - Executing primary network
+2023-07-25 18:05:50,638 - INFO - Started sequence through mongo DB 
+2023-07-25 18:05:50,961 - INFO - Total elements: 27516
+2023-07-25 18:05:50,961 - INFO - Primary network: 14570
+2023-07-25 18:05:50,961 - INFO - Secundary network: 12946
+2023-07-25 18:05:50,962 - INFO - Executing primary network
+2023-07-25 18:06:26,041 - INFO - Started sequence through mongo DB 
+2023-07-25 18:06:26,401 - INFO - Total elements: 27516
+2023-07-25 18:06:26,401 - INFO - Primary network: 14570
+2023-07-25 18:06:26,401 - INFO - Secundary network: 12946
+2023-07-25 18:06:26,402 - INFO - Executing primary network
+2023-07-25 18:06:37,865 - INFO - Process finished. Conected: 27512 - Disconecteds: 4
+2023-07-25 18:06:37,866 - INFO - Saving results.... 
+2023-07-25 18:06:38,937 - INFO - End saving 
+2023-07-25 18:09:08,294 - INFO - Started sequence through mongo DB 
+2023-07-25 18:09:08,697 - INFO - Total elements: 27516
+2023-07-25 18:09:08,698 - INFO - Primary network: 14570
+2023-07-25 18:09:08,698 - INFO - Secundary network: 12946
+2023-07-25 18:09:08,698 - INFO - Executing primary network
+2023-07-25 18:09:16,007 - INFO - Process finished. Conected: 27512 - Disconecteds: 4
+2023-07-25 18:09:16,007 - INFO - Saving results.... 
+2023-07-25 18:09:16,879 - INFO - End saving 
+2023-07-25 18:21:38,740 - INFO - Total elements: 27516
+2023-07-25 18:21:38,825 - INFO - Primary network: 14570
+2023-07-25 18:21:38,826 - INFO - Secundary network: 12946
+2023-07-25 18:21:38,826 - INFO - Executing primary network
+2023-07-25 18:21:45,963 - INFO - Process finished. Conected: 27512 - Disconecteds: 4
+2023-07-25 18:22:09,181 - INFO - Total elements: 27516
+2023-07-25 18:22:09,182 - INFO - Primary network: 14570
+2023-07-25 18:22:09,182 - INFO - Secundary network: 12946
+2023-07-25 18:22:09,182 - INFO - Executing primary network
+2023-07-25 18:22:17,104 - INFO - Process finished. Conected: 27512 - Disconecteds: 4
+2023-07-25 18:26:09,988 - INFO - Total elements: 27516
+2023-07-25 18:26:09,989 - INFO - Primary network: 14570
+2023-07-25 18:26:09,990 - INFO - Secundary network: 12946
+2023-07-25 18:26:09,990 - INFO - Executing primary network
+2023-07-25 18:26:17,317 - INFO - Process finished. Conected: 27512 - Disconecteds: 4
+2023-07-25 18:27:12,476 - INFO - Total elements: 27516
+2023-07-25 18:27:12,476 - INFO - Primary network: 14570
+2023-07-25 18:27:12,477 - INFO - Secundary network: 12946
+2023-07-25 18:27:12,477 - INFO - Executing primary network
+2023-07-25 18:27:19,839 - INFO - Process finished. Conected: 27512 - Disconecteds: 4
+2023-07-25 18:27:51,482 - INFO - Total elements: 27516
+2023-07-25 18:27:51,482 - INFO - Primary network: 14570
+2023-07-25 18:27:51,482 - INFO - Secundary network: 12946
+2023-07-25 18:27:51,483 - INFO - Executing primary network
+2023-07-25 18:27:58,565 - INFO - Process finished. Conected: 27512 - Disconecteds: 4
+2023-07-25 18:28:19,529 - INFO - Total elements: 27516
+2023-07-25 18:28:19,529 - INFO - Primary network: 14570
+2023-07-25 18:28:19,530 - INFO - Secundary network: 12946
+2023-07-25 18:28:19,530 - INFO - Executing primary network
+2023-07-25 18:28:26,739 - INFO - Process finished. Conected: 27512 - Disconecteds: 4
+2023-07-25 18:28:39,824 - INFO - Total elements: 27516
+2023-07-25 18:28:39,824 - INFO - Primary network: 14570
+2023-07-25 18:28:39,825 - INFO - Secundary network: 12946
+2023-07-25 18:28:39,825 - INFO - Executing primary network
+2023-07-25 18:28:47,593 - INFO - Process finished. Conected: 27512 - Disconecteds: 4
+2023-07-25 18:30:06,188 - INFO - Total elements: 27516
+2023-07-25 18:30:06,188 - INFO - Primary network: 14570
+2023-07-25 18:30:06,189 - INFO - Secundary network: 12946
+2023-07-25 18:30:06,189 - INFO - Executing primary network
+2023-07-25 18:30:13,459 - INFO - Process finished. Conected: 27512 - Disconecteds: 4
+2023-07-25 18:30:29,347 - INFO - Total elements: 27516
+2023-07-25 18:30:29,348 - INFO - Primary network: 14570
+2023-07-25 18:30:29,348 - INFO - Secundary network: 12946
+2023-07-25 18:30:29,348 - INFO - Executing primary network
+2023-07-25 18:30:36,955 - INFO - Process finished. Conected: 27512 - Disconecteds: 4
+2023-07-25 18:31:13,790 - INFO - Total elements: 27516
+2023-07-25 18:31:13,790 - INFO - Primary network: 14570
+2023-07-25 18:31:13,791 - INFO - Secundary network: 12946
+2023-07-25 18:31:13,791 - INFO - Executing primary network
+2023-07-25 18:31:21,040 - INFO - Process finished. Conected: 27512 - Disconecteds: 4
+2023-07-25 18:33:33,973 - INFO - Total elements: 27516
+2023-07-25 18:33:34,000 - INFO - Primary network: 14570
+2023-07-25 18:33:34,001 - INFO - Secundary network: 12946
+2023-07-25 18:33:34,002 - INFO - Executing primary network
+2023-07-25 18:33:41,160 - INFO - Process finished. Conected: 27512 - Disconecteds: 4
+2023-07-25 18:34:07,346 - INFO - Total elements: 27516
+2023-07-25 18:34:07,347 - INFO - Primary network: 14570
+2023-07-25 18:34:07,347 - INFO - Secundary network: 12946
+2023-07-25 18:34:07,348 - INFO - Executing primary network
+2023-07-25 18:34:14,539 - INFO - Process finished. Conected: 27512 - Disconecteds: 4
+2023-07-25 18:35:09,527 - INFO - Total elements: 27516
+2023-07-25 18:35:09,830 - INFO - Primary network: 14570
+2023-07-25 18:35:09,831 - INFO - Secundary network: 12946
+2023-07-25 18:35:09,833 - INFO - Executing primary network
+2023-07-25 18:35:17,605 - INFO - Process finished. Conected: 27512 - Disconecteds: 4
+2023-07-25 18:35:37,324 - INFO - Total elements: 27516
+2023-07-25 18:35:37,324 - INFO - Primary network: 14570
+2023-07-25 18:35:37,324 - INFO - Secundary network: 12946
+2023-07-25 18:35:37,326 - INFO - Executing primary network
+2023-07-25 18:35:44,701 - INFO - Process finished. Conected: 27512 - Disconecteds: 4
+2023-07-25 18:41:20,534 - INFO - Total elements: 27516
+2023-07-25 18:41:20,662 - INFO - Primary network: 14570
+2023-07-25 18:41:20,662 - INFO - Secundary network: 12946
+2023-07-25 18:41:20,664 - INFO - Executing primary network
+2023-07-25 18:41:27,813 - INFO - Process finished. Conected: 27512 - Disconecteds: 4
+2023-07-25 20:11:28,749 - INFO - Total elements: 27516
+2023-07-25 20:11:28,763 - INFO - Primary network: 14570
+2023-07-25 20:11:28,763 - INFO - Secundary network: 12946
+2023-07-25 20:11:28,764 - INFO - Executing primary network
+2023-07-25 20:11:35,688 - INFO - Process finished. Conected: 27512 - Disconecteds: 4
+2023-07-26 12:10:10,448 - INFO - Total elements: 27516
+2023-07-26 12:10:10,546 - INFO - Primary network: 14570
+2023-07-26 12:10:10,547 - INFO - Secundary network: 12946
+2023-07-26 12:10:10,549 - INFO - Executing primary network
+2023-07-26 12:10:17,704 - INFO - Process finished. Conected: 27512 - Disconecteds: 4
+2023-07-26 12:13:46,071 - INFO - Total elements: 27516
+2023-07-26 12:13:46,071 - INFO - Primary network: 14570
+2023-07-26 12:13:46,072 - INFO - Secundary network: 12946
+2023-07-26 12:13:46,073 - INFO - Executing primary network
+2023-07-26 12:13:53,234 - INFO - Process finished. Conected: 27512 - Disconecteds: 4
+2023-07-26 12:18:03,827 - INFO - Total elements: 27516
+2023-07-26 12:18:03,828 - INFO - Primary network: 14570
+2023-07-26 12:18:03,828 - INFO - Secundary network: 12946
+2023-07-26 12:18:03,828 - INFO - Executing primary network
+2023-07-26 12:18:10,951 - INFO - Process finished. Conected: 27512 - Disconecteds: 4
+2023-07-26 12:20:47,634 - INFO - Total elements: 27516
+2023-07-26 12:20:47,635 - INFO - Primary network: 14570
+2023-07-26 12:20:47,635 - INFO - Secundary network: 12946
+2023-07-26 12:20:47,636 - INFO - Executing primary network
+2023-07-26 12:20:55,003 - INFO - Process finished. Conected: 27512 - Disconecteds: 4
+2023-07-26 12:23:30,736 - INFO - Total elements: 27516
+2023-07-26 12:23:30,737 - INFO - Primary network: 14570
+2023-07-26 12:23:30,737 - INFO - Secundary network: 12946
+2023-07-26 12:23:30,738 - INFO - Executing primary network
+2023-07-26 12:23:37,915 - INFO - Process finished. Conected: 27512 - Disconecteds: 4
+2023-07-26 12:25:06,746 - INFO - Total elements: 27516
+2023-07-26 12:25:06,747 - INFO - Primary network: 14570
+2023-07-26 12:25:06,747 - INFO - Secundary network: 12946
+2023-07-26 12:25:06,748 - INFO - Executing primary network
+2023-07-26 12:25:13,907 - INFO - Process finished. Conected: 27512 - Disconecteds: 4
+2023-07-26 12:26:11,080 - INFO - Total elements: 27516
+2023-07-26 12:26:11,081 - INFO - Primary network: 14570
+2023-07-26 12:26:11,081 - INFO - Secundary network: 12946
+2023-07-26 12:26:11,082 - INFO - Executing primary network
+2023-07-26 12:26:18,173 - INFO - Process finished. Conected: 27512 - Disconecteds: 4
+2023-07-26 12:26:43,912 - INFO - Total elements: 27516
+2023-07-26 12:26:43,912 - INFO - Primary network: 14570
+2023-07-26 12:26:43,913 - INFO - Secundary network: 12946
+2023-07-26 12:26:43,913 - INFO - Executing primary network
+2023-07-26 12:26:51,005 - INFO - Process finished. Conected: 27512 - Disconecteds: 4
+2023-07-26 12:27:46,060 - INFO - Total elements: 27516
+2023-07-26 12:27:46,060 - INFO - Primary network: 14570
+2023-07-26 12:27:46,061 - INFO - Secundary network: 12946
+2023-07-26 12:27:46,061 - INFO - Executing primary network
+2023-07-26 12:27:53,421 - INFO - Process finished. Conected: 27512 - Disconecteds: 4
+2023-07-26 12:28:12,142 - INFO - Total elements: 27516
+2023-07-26 12:28:12,143 - INFO - Primary network: 14570
+2023-07-26 12:28:12,143 - INFO - Secundary network: 12946
+2023-07-26 12:28:12,144 - INFO - Executing primary network
+2023-07-26 12:28:19,376 - INFO - Process finished. Conected: 27512 - Disconecteds: 4
+2023-07-26 12:29:02,704 - INFO - Total elements: 27516
+2023-07-26 12:29:02,705 - INFO - Primary network: 14570
+2023-07-26 12:29:02,801 - INFO - Secundary network: 12946
+2023-07-26 12:29:02,802 - INFO - Executing primary network
+2023-07-26 12:29:10,187 - INFO - Process finished. Conected: 27512 - Disconecteds: 4
+2023-07-26 12:30:28,231 - INFO - Total elements: 27516
+2023-07-26 12:30:28,232 - INFO - Primary network: 14570
+2023-07-26 12:30:28,232 - INFO - Secundary network: 12946
+2023-07-26 12:30:28,233 - INFO - Executing primary network
+2023-07-26 12:30:35,455 - INFO - Process finished. Conected: 27512 - Disconecteds: 4
+2023-07-26 12:32:54,387 - INFO - Total elements: 27516
+2023-07-26 12:32:54,387 - INFO - Primary network: 14570
+2023-07-26 12:32:54,388 - INFO - Secundary network: 12946
+2023-07-26 12:32:54,388 - INFO - Executing primary network
+2023-07-26 12:33:01,567 - INFO - Process finished. Conected: 27512 - Disconecteds: 4
+2023-07-26 12:33:53,536 - INFO - Total elements: 27516
+2023-07-26 12:33:53,536 - INFO - Primary network: 14570
+2023-07-26 12:33:53,537 - INFO - Secundary network: 12946
+2023-07-26 12:33:53,537 - INFO - Executing primary network
+2023-07-26 12:34:00,730 - INFO - Process finished. Conected: 27512 - Disconecteds: 4
+2023-07-26 12:34:29,420 - INFO - Total elements: 27516
+2023-07-26 12:34:29,421 - INFO - Primary network: 14570
+2023-07-26 12:34:29,421 - INFO - Secundary network: 12946
+2023-07-26 12:34:29,422 - INFO - Executing primary network
+2023-07-26 12:34:36,625 - INFO - Process finished. Conected: 27512 - Disconecteds: 4
+2023-07-26 12:35:38,703 - INFO - Total elements: 27516
+2023-07-26 12:35:38,703 - INFO - Primary network: 14570
+2023-07-26 12:35:38,704 - INFO - Secundary network: 12946
+2023-07-26 12:35:38,704 - INFO - Executing primary network
+2023-07-26 12:35:45,918 - INFO - Process finished. Conected: 27512 - Disconecteds: 4
+2023-07-26 12:36:16,220 - INFO - Total elements: 27516
+2023-07-26 12:36:16,220 - INFO - Primary network: 14570
+2023-07-26 12:36:16,220 - INFO - Secundary network: 12946
+2023-07-26 12:36:16,221 - INFO - Executing primary network
+2023-07-26 12:36:23,407 - INFO - Process finished. Conected: 27512 - Disconecteds: 4
+2023-07-26 22:14:11,467 - INFO - Total elements: 27516
+2023-07-26 22:14:11,565 - INFO - Primary network: 14570
+2023-07-26 22:14:11,566 - INFO - Secundary network: 12946
+2023-07-26 22:14:11,568 - INFO - Executing primary network
+2023-07-26 22:14:19,488 - INFO - Process finished. Conected: 27512 - Disconecteds: 4
+2023-07-27 00:50:47,066 - INFO - Total elements: 27516
+2023-07-27 00:50:47,095 - INFO - Primary network: 14570
+2023-07-27 00:50:47,096 - INFO - Secundary network: 12946
+2023-07-27 00:50:47,099 - INFO - Executing primary network
+2023-07-27 00:51:33,800 - INFO - Process finished. Conected: 27512 - Disconecteds: 4
+2023-07-27 01:50:47,299 - INFO - Total elements: 27516
+2023-07-27 01:50:47,299 - INFO - Primary network: 14570
+2023-07-27 01:50:47,299 - INFO - Secundary network: 12946
+2023-07-27 01:50:47,300 - INFO - Executing primary network
+2023-07-27 01:56:17,114 - INFO - Total elements: 27516
+2023-07-27 01:56:17,115 - INFO - Primary network: 14570
+2023-07-27 01:56:17,115 - INFO - Secundary network: 12946
+2023-07-27 01:56:17,116 - INFO - Executing primary network
+2023-07-27 01:58:33,219 - INFO - Total elements: 27516
+2023-07-27 01:58:33,219 - INFO - Primary network: 14570
+2023-07-27 01:58:33,220 - INFO - Secundary network: 12946
+2023-07-27 01:58:33,221 - INFO - Executing primary network
+2023-07-27 01:59:21,403 - INFO - Process finished. Conected: 27512 - Disconecteds: 4
+2023-07-28 18:27:22,167 - INFO - Total elements: 27516
+2023-07-28 18:27:22,176 - INFO - Primary network: 14570
+2023-07-28 18:27:22,176 - INFO - Secundary network: 12946
+2023-07-28 18:27:22,177 - INFO - Executing primary network
+2023-07-28 18:28:09,590 - INFO - Process finished. Conected: 27512 - Disconecteds: 4
+2023-07-28 23:20:37,558 - INFO - Total elements: 27516
+2023-07-28 23:20:37,559 - INFO - Primary network: 14570
+2023-07-28 23:20:37,559 - INFO - Secundary network: 12946
+2023-07-28 23:20:37,560 - INFO - Executing primary network
+2023-07-28 23:21:26,437 - INFO - Process finished. Conected: 27512 - Disconecteds: 4
+2023-07-28 23:26:13,776 - INFO - Total elements: 27516
+2023-07-28 23:26:13,777 - INFO - Primary network: 14570
+2023-07-28 23:26:13,777 - INFO - Secundary network: 12946
+2023-07-28 23:26:13,778 - INFO - Executing primary network
+2023-07-28 23:29:05,428 - INFO - Total elements: 27516
+2023-07-28 23:29:05,428 - INFO - Primary network: 14570
+2023-07-28 23:29:05,429 - INFO - Secundary network: 12946
+2023-07-28 23:29:05,430 - INFO - Executing primary network
+2023-07-28 23:30:06,013 - INFO - Total elements: 27516
+2023-07-28 23:30:06,014 - INFO - Primary network: 14570
+2023-07-28 23:30:06,014 - INFO - Secundary network: 12946
+2023-07-28 23:30:06,015 - INFO - Executing primary network
+2023-07-28 23:31:29,863 - INFO - Total elements: 27516
+2023-07-28 23:31:29,864 - INFO - Primary network: 14570
+2023-07-28 23:31:29,864 - INFO - Secundary network: 12946
+2023-07-28 23:31:29,865 - INFO - Executing primary network
+2023-07-28 23:32:03,923 - INFO - Total elements: 27516
+2023-07-28 23:32:03,924 - INFO - Primary network: 14570
+2023-07-28 23:32:03,924 - INFO - Secundary network: 12946
+2023-07-28 23:32:03,925 - INFO - Executing primary network
+2023-07-28 23:32:52,707 - INFO - Process finished. Conected: 27512 - Disconecteds: 4
+2023-07-28 23:34:20,326 - INFO - Total elements: 27516
+2023-07-28 23:34:20,327 - INFO - Primary network: 14570
+2023-07-28 23:34:20,327 - INFO - Secundary network: 12946
+2023-07-28 23:34:20,328 - INFO - Executing primary network
+2023-07-28 23:35:08,455 - INFO - Process finished. Conected: 27512 - Disconecteds: 4
+2023-07-28 23:36:24,614 - INFO - Total elements: 27516
+2023-07-28 23:36:24,615 - INFO - Primary network: 14570
+2023-07-28 23:36:24,615 - INFO - Secundary network: 12946
+2023-07-28 23:36:24,616 - INFO - Executing primary network
+2023-07-28 23:37:00,549 - INFO - Total elements: 27516
+2023-07-28 23:37:00,550 - INFO - Primary network: 14570
+2023-07-28 23:37:00,550 - INFO - Secundary network: 12946
+2023-07-28 23:37:00,550 - INFO - Executing primary network
+2023-07-28 23:37:33,529 - INFO - Total elements: 27516
+2023-07-28 23:37:33,529 - INFO - Primary network: 14570
+2023-07-28 23:37:33,530 - INFO - Secundary network: 12946
+2023-07-28 23:37:33,530 - INFO - Executing primary network
+2023-07-28 23:38:12,934 - INFO - Total elements: 27516
+2023-07-28 23:38:12,935 - INFO - Primary network: 14570
+2023-07-28 23:38:12,935 - INFO - Secundary network: 12946
+2023-07-28 23:38:12,936 - INFO - Executing primary network
+2023-07-28 23:40:07,940 - INFO - Total elements: 27516
+2023-07-28 23:40:07,941 - INFO - Primary network: 14570
+2023-07-28 23:40:07,941 - INFO - Secundary network: 12946
+2023-07-28 23:40:07,942 - INFO - Executing primary network
+2023-07-28 23:41:47,386 - INFO - Total elements: 27516
+2023-07-28 23:41:47,387 - INFO - Primary network: 14570
+2023-07-28 23:41:47,387 - INFO - Secundary network: 12946
+2023-07-28 23:41:47,388 - INFO - Executing primary network
+2023-07-28 23:42:34,686 - INFO - Process finished. Conected: 27512 - Disconecteds: 4
+2023-07-29 10:39:49,979 - INFO - Total elements: 27516
+2023-07-29 10:39:49,980 - INFO - Primary network: 14570
+2023-07-29 10:39:49,980 - INFO - Secundary network: 12946
+2023-07-29 10:39:49,981 - INFO - Executing primary network
+2023-07-29 10:40:35,244 - INFO - Process finished. Conected: 27512 - Disconecteds: 4
+2023-07-29 11:03:54,865 - INFO - Total elements: 27516
+2023-07-29 11:03:54,866 - INFO - Primary network: 14570
+2023-07-29 11:03:54,866 - INFO - Secundary network: 12946
+2023-07-29 11:03:54,867 - INFO - Executing primary network
+2023-07-29 11:04:44,010 - INFO - Process finished. Conected: 27512 - Disconecteds: 4

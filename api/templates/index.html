@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sequenciador elétrico</title>
+    <!-- Incluindo estilos do Bootstrap -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Sequenciador elétrico</h1>
+        <form method="POST" enctype="multipart/form-data">
+            {{ form.csrf_token }}
+            <div class="form-group">
+                <label for="{{ form.input_feeder.id }}">Alimentador</label>
+                {{ form.input_feeder(class="form-control", placeholder="Digite o nome") }}
+            </div>
+            <div class="form-group">
+                <label for="{{ form.input_csv.id }}">Arquivo</label>
+                {{ form.input_csv(class="form-control") }}
+            </div>
+            <button type="submit" name='sequence_submit' class="btn btn-primary">Enviar</button>
+        </form>
+        <form method="POST" enctype="multipart/form-data">
+            <div class="form-group">
+                <h1>Analisar arquivo de resposta</h1>
+                <label for="{{ form2.input_csv_analisy.id }}">Arquivo</label>
+                {{ form2.input_csv_analisy(class="form-control") }}
+            </div>
+            <input type="submit"  name='analisy_submit' class="btn btn-primary" value="Enviar">
+        </form>
+        <div class="container" style="margin-top:40px;">
+            <h2>Instruções</h2>
+            <h4>Formatação do CSV</h4>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th scope="col">"TABLE"</td>
+                        <th scope="col">"CODE"</td>
+                        <th scope="col">"PAC1"</td>
+                        <th scope="col">"PAC2"</td>
+                        <th scope="col">"VOLTAGE"</td>
+                        <th scope="col">"PHASES"</td>
+                        <th scope="col">"SEC_PHASES"</td>
+                        <th scope="col">"VOLTAGE_TYPE"</td>
+                        <th scope="col">"FEEDER"</td>
+                        <th scope="col">"TRANSFORMER_TYPE"</td>
+                    </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <td>"CTMT"</td>
+                    <td>"CODCTMT"</td>
+                    <td>"490000079"</td>
+                    <td>""</td>
+                    <td>49.0</td>
+                    <td>""</td>
+                    <td>""</td>
+                    <td>"MT"</td>
+                    <td>"CODCTMT"</td>
+                    <td>""</td>
+                </tr>
+                <tr>
+                    <td>"UNTRD"</td>
+                    <td>"2267788"</td>
+                    <td>"12743-7988471"</td>
+                    <td>"2267788-7988471V"</td>
+                    <td>127.0</td>
+                    <td>"C"</td>
+                    <td>"AN"</td>
+                    <td>"MT"</td>
+                    <td>"CODCTMT"</td>
+                    <td>"M"</td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+        <div>
+            <h4>SQL para extração BDGD </h4>
+            <ul>
+            <li><a href="{{ url_for('download_oracle') }}">Download do sql para Oracle</a></li>
+            <li><a href="{{ url_for('download_hana') }}">Download do sql para Hana</a></li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>

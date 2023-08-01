@@ -1,0 +1,171 @@
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no" />
+    <title>Resumo conectividade</title>
+
+    <style>
+        html,
+        body,
+        #map {
+            height: 100%;
+        }
+    </style>
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    <script>        
+        console.log('{{ data_json | tojson | safe }}')
+        // Recebe o JSON como uma string do Flask e converte em um objeto JavaScript
+        const jsonData = JSON.parse('{{ data_json | tojson | safe }}');
+
+        
+
+        // Exemplo de como acessar os valores do JSON e manipulá-los
+        const connectedsValue = jsonData.connecteds;
+        const disconnectedValue = jsonData.disconnected;
+        const errorsValue = jsonData.errors;
+
+        console.log('Connecteds:', connectedsValue);
+        console.log('Disconnected:', disconnectedValue);
+        console.log('Errors:', errorsValue);
+    </script>
+
+</head>
+
+<body>
+    <div class="container">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        Conectados
+                    </th>
+                    <th>
+                        Desconectados
+                    </th>
+                    <th>
+                        Erros de fase
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>{{data_json.connecteds}}</td>                
+                    <td>{{data_json.disconnected}}</td>                
+                    <td>{{data_json.erros}}</td>
+                </tr>
+            </tbody>
+        </table>
+
+    </div>
+    <div id="map"></div>
+    <script>
+        var map = L.map('map').setView([51.505, -0.09], 13);
+        L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '© OpenStreetMap'
+        }).addTo(map);
+        function onEachFeature(feature, layer) {
+            // does this feature have a property named popupContent?
+            if (feature.properties) {
+                var content = "";
+                for(var k in feature.properties){
+                    content+="<b>" + k + "</b> : " + feature.properties[k] +" <br>";
+                }
+                layer.bindPopup(content);
+            }
+        }
+        var colors = {
+            CTMT:"#0000FF",
+            SSDMT:"#0000AA",
+            SSDBT:"#FFFA00",
+            UNTRD:"#00FF00",
+            UNSEMT:"#0FF0FF",
+            UNSEBT:"#00A0FF",
+            UNREMT:"#000AFF",
+            UCBT:"#00C0FF",
+            UCBT:"#00CCFF",
+            PIP:"#0AA0FF"
+        };
+        
+
+        var getColor = function(feature){
+            if(feature.properties.order == 0){
+                return "#FF0000";
+            }else{
+                return colors[feature.properties.table.toUpperCase()];
+            }
+        }
+
+        var pointStyle = function(feature){
+            return {
+                radius: 4,
+                fillColor: getColor(feature),
+                color: "#000",
+                weight: feature.properties.order > 0 ? 1: 10 ,
+                opacity: 1,
+                fillOpacity: 0.8
+            };
+        };
+        var lineStyle = function(feature){
+            return {
+                color:getColor(feature),
+                weight: feature.properties.order > 0? (feature.properties.table == "SSDBT"?4:6 ) : 20
+            }
+        };
+
+        var defaultConfigLine = {
+            onEachFeature: onEachFeature,
+            style:lineStyle          
+        }
+
+        var defaultConfigPoint = {
+            onEachFeature: onEachFeature,
+            style:pointStyle,
+            pointToLayer: function (feature, latlng) {
+                return L.circleMarker(latlng, pointStyle(feature));
+            }
+        }
+
+        var allLayers = L.layerGroup().addTo(map);
+
+        function createGeoJsonObj(features){
+            return {
+                type:"FeatureCollection", 
+                features:features
+            }
+        }
+
+        function addLayers(e){
+            var layerCTMT = L.geoJSON(createGeoJsonObj(jsonData.ctmt.features.filter(e)),defaultConfigPoint).addTo(allLayers);        
+            var layerSSDMT = L.geoJSON(createGeoJsonObj(jsonData.ssdmt.features.filter(e)),defaultConfigLine).addTo(allLayers);
+            var layerSSDBT = L.geoJSON(createGeoJsonObj(jsonData.ssdbt.features.filter(e)),defaultConfigLine).addTo(allLayers);
+            var layerUNTRD = L.geoJSON(createGeoJsonObj(jsonData.untrd.features.filter(e)),defaultConfigPoint).addTo(allLayers);
+            var layerUNSEMT = L.geoJSON(createGeoJsonObj(jsonData.unsemt.features.filter(e)),defaultConfigPoint).addTo(allLayers);
+            var layerUNSEBT = L.geoJSON(createGeoJsonObj(jsonData.unsebt.features.filter(e)),defaultConfigPoint).addTo(allLayers);
+            var layerUNREMT = L.geoJSON(createGeoJsonObj(jsonData.unremt.features.filter(e)),defaultConfigPoint).addTo(allLayers);
+            var layerUCBT = L.geoJSON(createGeoJsonObj(jsonData.ucbt.features.filter(e)),defaultConfigPoint).addTo(allLayers);
+            var layerUCMT = L.geoJSON(createGeoJsonObj(jsonData.ucbt.features.filter(e)),defaultConfigPoint).addTo(allLayers);
+            var layerPIP = L.geoJSON(createGeoJsonObj(jsonData.pip.features.filter(e)),defaultConfigPoint).addTo(allLayers);
+            var layers = [layerCTMT,layerSSDMT,layerSSDBT,layerUNTRD,layerUNSEMT,layerUNSEBT,layerUNREMT,layerUCBT,layerUCMT,layerPIP];
+            const group = L.featureGroup(layers);
+            this.map.fitBounds(group.getBounds());
+        }
+
+        addLayers(function(){return true;});
+        
+        
+        function onlyDisconecteds(){
+
+        }
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,17 @@
+{
+    "Tables":{
+        "TRAFO":"UNTRD",
+        "ALIMENTADOR":"CTMT",
+        "SEGMENTO_MT":"SSDMT",
+        "SEGMENTO_BT":"SSDBT",
+        "SECCIONADOR_MT":"UNSEMT",
+        "RAMAL":"RAMLIG",
+        "REGULADOR":"UNREMT",
+        "SECCIONADOR_BT":"UNSEBT",
+        "CARGA_BAIXA_TENSAO":"UCBT",
+        "CARGA_MEDIA_TENSAO":"UCMT",
+        "CARGA_ILUMINACAO_PUBLICA":"PIP",
+        "UNIDADE_COMPENSADORA_BAIXA_TENSAO":"UNCRBT",
+        "UNIDADE_COMPENSADORA_MEDIA_TENSAO":"UNCRMT"
+    }
+}
